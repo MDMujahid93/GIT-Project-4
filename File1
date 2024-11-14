@@ -1,0 +1,21 @@
+// This is a simple java program
+// Filename: Purdue_Project_2
+
+pubic class Login {
+
+   public void loginWithCredentials (Strings Username, String Password) {
+      System.out.println ("Username = " + Username");
+      System.out.println ("Password = " + Password");
+   }
+
+
+   public void enterUsername (String username) {
+      System.out.println ("Username = " + Username");
+   }
+
+   public void enterPassword (String Password) {
+      System.out.println ("Password = " + Password");
+   }
+
+}
+
